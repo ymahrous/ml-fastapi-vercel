@@ -1,0 +1,9 @@
+fastapi
+joblib
+lint
+pandas
+pydantic
+pydantic_core
+pylint
+uvicorn
+black
