@@ -12,4 +12,4 @@ model.fit(X, y)
 predictions = model.predict([[22, 1]])
 print(predictions[0])
 
-# joblib.dump(model, 'car-recommender.joblib')
+joblib.dump(model, 'car-recommender.joblib', compress=3)
