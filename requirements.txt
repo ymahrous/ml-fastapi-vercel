@@ -4,6 +4,7 @@ lint
 pandas
 pydantic
 pydantic_core
+scikit-learn
 pylint
 uvicorn
 black
